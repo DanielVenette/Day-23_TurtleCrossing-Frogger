@@ -16,19 +16,22 @@ Frogger is a popular arcade game developed by Konami in 1981. This project aims 
 * Navigation through the game world using keyboard controls (Up, Down, Right, Left keys).
 * Dynamic obstacles in the form of cars and logs.
 * Gradually increasing difficulty by increasing game speed after each level.
-* Options to freeze and unfreeze logs for a dynamic gaming experience.
 * Option to replay the game after game over or after beating the game.
 
 ## Installation
+
 1. Make sure Python is installed on your system. If not, you can download it [here](https://www.python.org/downloads/).
 
-2. Clone the repository:
+2. Make sure Git is installed on your system. If not, you can download it [here](https://git-scm.com/downloads).
+
+3. Open your system's command line interface, and clone the repository using the following command:
    ```
-   git clone https://github.com/your_username/frogger-turtle-graphics.git
+   git clone https://github.com/DanielVenette/Day-23_TurtleCrossing-Frogger.git
    ```
-3. Change to the directory:
+
+4. Change to the directory of the cloned repository:
    ```
-   cd frogger-turtle-graphics
+   cd Day-23_TurtleCrossing-Frogger
    ```
 
 ## Usage
@@ -41,8 +44,6 @@ Here are the controls for the game:
 - Use the "Down" arrow key to move the frog down.
 - Use the "Right" arrow key to move the frog right.
 - Use the "Left" arrow key to move the frog left.
-- Use the "f" key to freeze logs.
-- Use the "u" key to unfreeze logs.
 - Use the "r" key to reset the frog to the starting position.
 
 ## Contributing
