@@ -4,6 +4,7 @@ This repository hosts a Python-based version of the classic arcade game, Frogger
 
 ## Table of Contents
 - [Introduction](#introduction)
+- [Technical Highlights](#technical-highlights)
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -11,6 +12,9 @@ This repository hosts a Python-based version of the classic arcade game, Frogger
 
 ## Introduction
 Frogger is a popular arcade game developed by Konami in 1981. This project aims to replicate Frogger's gameplay using Python and Turtle graphics. The game revolves around a frog that the player guides across a busy road and a river full of logs to get to safety.
+
+## Technical Highlights
+This project offers a practical example of Object-Oriented Programming (OOP) principles. It includes the use of classes like `CarManager`, `LogManager`, and `Player`, which encapsulate related data and behavior, providing a high level of abstraction. The `Player` class notably showcases inheritance by extending from the `Turtle` class. Modularity is highlighted with distinct Python files for each class, improving readability and maintainability.
 
 ## Features
 * Navigation through the game world using keyboard controls (Up, Down, Right, Left keys).
